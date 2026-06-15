@@ -9,7 +9,7 @@ export default function SidebarNav({ items, activeId, onSelect }) {
         </div>
       </div>
 
-      <nav className="task-nav" aria-label="Assessment task navigation">
+      <nav className="task-nav" aria-label="Task navigation">
         {items.map((item) => (
           <button
             key={item.id}

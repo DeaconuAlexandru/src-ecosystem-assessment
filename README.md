@@ -1,6 +1,6 @@
 # SRC Ecosystem Frontend Assessment
 
-A polished React app that demonstrates the four UI/UX tasks for the SRC Ecosystem onboarding assessment.
+A polished React app that demonstrates the four UI/UX tasks for the SRC onboarding assessment.
 
 ## Included tasks
 

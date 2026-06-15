@@ -2,7 +2,7 @@ export default function TopBar({ title, subtitle, actions }) {
   return (
     <header className="top-bar">
       <div>
-        <p className="eyebrow">SRC Ecosystem</p>
+        <p className="eyebrow">SRC</p>
         <h2>{title}</h2>
         <p className="top-bar-subtitle">{subtitle}</p>
       </div>

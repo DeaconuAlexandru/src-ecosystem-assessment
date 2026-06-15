@@ -45,8 +45,8 @@ function App() {
 
       <div className="workspace">
         <TopBar
-          title={sidebarItems.find((item) => item.id === activeTask)?.label || 'Frontend Assessment'}
-          subtitle="Short, practical, real-world frontend tasks with clear UX and clean component structure."
+          title={sidebarItems.find((item) => item.id === activeTask)?.label || 'Frontend Demo'}
+          subtitle="Nice frontend website"
           actions={headerActions}
         />
 
